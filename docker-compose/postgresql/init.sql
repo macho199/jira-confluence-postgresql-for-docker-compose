@@ -1,0 +1,2 @@
+CREATE DATABASE atlassian_jira;
+CREATE DATABASE atlassian_confluence;
