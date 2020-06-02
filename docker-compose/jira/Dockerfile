@@ -1,1 +1,1 @@
-FROM atlassian/jira-software
+FROM atlassian/jira-software:8

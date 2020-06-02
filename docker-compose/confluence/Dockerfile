@@ -1,1 +1,1 @@
-FROM atlassian/confluence-server
+FROM atlassian/confluence-server:6
