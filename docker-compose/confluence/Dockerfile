@@ -1,1 +1,1 @@
-FROM atlassian/confluence-server:7
+FROM atlassian/confluence-server:7.9
